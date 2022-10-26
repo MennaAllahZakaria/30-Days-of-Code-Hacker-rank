@@ -36,7 +36,6 @@ class Solution{
           }
 
 
-
           Node* insert(Node *head,int data)
           {
                Node* p=new Node(data);
