@@ -20,7 +20,7 @@ public:
            } 
             
         }
-     
+   
         return ( sqrt(n)==int(sqrt(n)))?sum+sqrt(n):sum;
     }
 };
