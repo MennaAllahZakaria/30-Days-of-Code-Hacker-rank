@@ -33,7 +33,6 @@ class MyBook :Book{
    }
 };
 
-
 int main() {
     string title,author;
     int price;
