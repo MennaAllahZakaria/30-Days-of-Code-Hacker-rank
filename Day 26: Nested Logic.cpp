@@ -8,7 +8,7 @@ using namespace std;
 
 int main() {
 
-    
+   
   int actDay,actMonth,actYear,expDay,expMonth,expYear;
   
     cin >>actDay>>actMonth>>actYear>>expDay>>expMonth>>expYear;
