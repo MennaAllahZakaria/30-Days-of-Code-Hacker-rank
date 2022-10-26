@@ -4,7 +4,6 @@
 
 using namespace std;
 
-
 template<typename T> void printArray(const vector<T>&v){
     for ( auto i:v) {
         cout<<i<<"\n";
