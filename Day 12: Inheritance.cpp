@@ -3,7 +3,6 @@
 
 using namespace std;
 
-
 class Person{
 	protected:
 		string firstName;
