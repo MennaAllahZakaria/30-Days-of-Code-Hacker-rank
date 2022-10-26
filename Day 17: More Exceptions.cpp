@@ -4,7 +4,6 @@
 #include <stdexcept>
 using namespace std;
 
-
 class Calculator{
     public:
     int power(int n,int p){
