@@ -10,7 +10,6 @@ class Solution {
     queue<char> q;
 public:
 
-
 void pushCharacter(char ch){
     st.push(ch);
 }
