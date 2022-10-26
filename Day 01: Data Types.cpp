@@ -20,3 +20,4 @@ x+=d;
 cout<< n<<"\n"<<fixed << setprecision(1)<<x<<"\n"<<s<<m;
     return 0;
 }
+
