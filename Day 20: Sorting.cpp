@@ -24,7 +24,7 @@ int numOfSwaps(vector<int>&v){
 }
     
     return res;
-    
+   
 }
 
 int main()
