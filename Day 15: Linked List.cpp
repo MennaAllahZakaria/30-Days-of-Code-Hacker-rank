@@ -24,7 +24,7 @@ class Solution{
         
         newHead->next=temp;
         return head;
-        
+       
         
       }
 
