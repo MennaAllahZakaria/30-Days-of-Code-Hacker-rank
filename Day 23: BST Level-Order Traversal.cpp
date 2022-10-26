@@ -58,7 +58,6 @@ class Solution{
 };
 
 
-
 int main(){
     Solution myTree;
     Node* root=NULL;
